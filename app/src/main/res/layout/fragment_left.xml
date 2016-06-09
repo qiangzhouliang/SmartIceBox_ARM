@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/d"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_query"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_bg"
+        android:layout_marginTop="10dp"
+        android:text="食品查询"
+        android:textSize="24sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="冰箱食谱"
+        android:id="@+id/button_food"
+        android:background="@drawable/button_bg"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="营养分析"
+        android:id="@+id/button_analyze"
+        android:background="@drawable/button_bg"
+        android:textSize="24sp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="温度调节"
+        android:id="@+id/button_temp"
+        android:background="@drawable/button_bg"
+        android:textSize="24sp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="标签(加/删)"
+        android:background="@drawable/button_bg"
+        android:id="@+id/button_flag_add"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="设置提示时间"
+        android:background="@drawable/button_bg"
+        android:id="@+id/button_set"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"/>
+
+    <ImageButton
+        android:layout_width="96dp"
+        android:layout_height="60dp"
+        android:id="@+id/imageButton_voice"
+        android:src="@android:drawable/ic_btn_speak_now"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

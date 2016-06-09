@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.qzl.bmob_3_3.RegActivity"
+    android:background="@drawable/a"
+    android:stretchColumns="1">
+
+    <TableRow>
+        <TextView
+            android:layout_height="wrap_content"
+            android:text="用户名"
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:hint="请输入用户名"
+            android:textSize="18sp"
+            android:id="@+id/editText_name" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="wrap_content"
+            android:text="密码"
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:hint="请输入密码"
+            android:textSize="18sp"
+            android:id="@+id/editText2_password" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="wrap_content"
+            android:text="邮箱"
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:hint="请输入邮箱地址"
+            android:textSize="18sp"
+            android:id="@+id/editText_email" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_height="wrap_content"
+            android:text="电话"
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:hint="请输入电话号码"
+            android:textSize="18sp"
+            android:id="@+id/phone_num" />
+    </TableRow>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="注册"
+        android:onClick="registerClick"
+        android:id="@+id/button_reg"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</TableLayout>

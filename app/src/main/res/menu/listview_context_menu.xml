@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/delete_menu"
+        android:orderInCategory="100"
+        android:title="删除"
+        android:icon="@android:drawable/ic_menu_delete"/>
+
+    <item android:id="@+id/update_menu"
+        android:orderInCategory="100"
+        android:title="修改"
+        android:icon="@android:drawable/ic_menu_edit"/>
+
+</menu>

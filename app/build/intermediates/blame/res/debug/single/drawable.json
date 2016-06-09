@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_18.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_18.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_3.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_9.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_17.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_17.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_11.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_11.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_16.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_16.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_5.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_5.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_5.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_6.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_13.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_13.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_14.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_14.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_41.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_41.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_16.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_35.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_35.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_1.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_17.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_17.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_39.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_39.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_15.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_15.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_10.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_15.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_15.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_37.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_37.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_42.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_42.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_20.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_20.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_30.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_30.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_7.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_33.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_33.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_14.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_14.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_13.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_13.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_9.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_40.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_40.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_38.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_38.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_31.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_31.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_20.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_20.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_7.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_7.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_4.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_4.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_12.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_12.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_28.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_28.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_16.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_23.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_23.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_14.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_14.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_29.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_29.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_8.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_36.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_36.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_24.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_12.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_12.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_34.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_34.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_23.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_23.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_22.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_22.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_18.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_18.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_1.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_6.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_6.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_21.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_21.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_6.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_10.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_10.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_2.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_2.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_3.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_4.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_9.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_9.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_8.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_17.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_17.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_19.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_19.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_2.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_5.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_7.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_8.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_8.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_21.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_21.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_25.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_25.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_22.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_22.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_15.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_15.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_1.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_11.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_3.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_3.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_12.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_12.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_4.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_13.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\a_13.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_19.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_19.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_32.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_32.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_43.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_43.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_18.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_18.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_24.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_24.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_27.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_27.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gravida_26.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\gravida_26.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_11.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aged_10.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable\\aged_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

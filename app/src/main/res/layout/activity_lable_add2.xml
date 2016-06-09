@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin_v"
+    android:paddingLeft="@dimen/activity_horizontal_margin_h"
+    android:paddingRight="@dimen/activity_horizontal_margin_h"
+    android:paddingTop="@dimen/activity_vertical_margin_v"
+    tools:context="com.qzl.bmob_3_3.NoteNewActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="食物ID:   "
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_id"
+            android:hint="请输入食物id"
+            android:textSize="18dp"
+            android:layout_weight="16"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="食品名称 "
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_foodName"
+            android:hint="请输入食物名称"
+            android:textSize="18dp"
+            android:layout_weight="16"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    备注:    "
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_remark"
+            android:hint="请输入备注信息"
+            android:textSize="18dp"
+            android:layout_weight="16"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="      图片      "
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+        <ImageView
+            android:layout_height="48dp"
+            android:layout_width="48dp"
+            android:id="@+id/imageView"
+            android:layout_weight="1"
+            android:src="@android:drawable/ic_menu_gallery"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请选择图片"
+            android:id="@+id/button_select"
+            android:layout_weight="10"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/activity_horizontal_margin_h"
+        android:paddingRight="@dimen/activity_horizontal_margin_h">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保 存"
+            android:layout_marginTop="10dp"
+            android:id="@+id/button_save"
+            android:background="@drawable/button"
+            android:layout_weight="1" />
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取 消"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button"
+            android:id="@+id/button_cancel"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</LinearLayout>

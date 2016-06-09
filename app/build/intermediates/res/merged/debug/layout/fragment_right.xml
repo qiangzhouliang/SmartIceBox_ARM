@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin_v"
+    android:paddingLeft="@dimen/activity_horizontal_margin_h"
+    android:paddingRight="@dimen/activity_horizontal_margin_h"
+    android:paddingTop="@dimen/activity_vertical_margin_v"
+    android:background="@drawable/a"
+    tools:context="com.friendlyarm.Fragment.RightFragment">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="门的状态："/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_open_close"
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/temperature"
+                android:textSize="26sp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="30dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_temp"
+                android:layout_marginLeft="10dp"
+                android:textSize="36sp"
+                android:layout_marginTop="30dp"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView_time"
+                    android:textSize="50sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="80dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView_date"
+                    android:textSize="18sp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="100dp"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_hint"
+            android:text="提示： 冰箱内目前没有即将过期的食物..."
+            android:layout_marginTop="100dp"
+            android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listView"
+            android:layout_column="0"
+            android:dividerHeight="2dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

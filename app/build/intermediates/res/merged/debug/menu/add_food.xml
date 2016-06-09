@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_note_addFood"
+        android:title="添加食品存根"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/menu_note_add"
+        android:title="添加食品"
+        android:orderInCategory="200"/>
+    <item
+        android:id="@+id/menu_note_delete"
+        android:title="更新食品"
+        android:orderInCategory="300"/>
+</menu>

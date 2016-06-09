@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\c.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable-ldpi\\c.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\caomai.jpg",
+        "source": "D:\\AndroidStudioProjects\\LEDDemo1\\app\\src\\main\\res\\drawable-ldpi\\caomai.jpg"
+    }
+]
