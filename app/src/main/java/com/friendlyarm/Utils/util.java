@@ -116,7 +116,7 @@ public class util {
         for (int i = 0; i < size; i++) {
             String hex = Integer.toHexString(b[i] & 0xFF);
             if (hex.length() == 1) {
-                hex = "0" + hex;
+                //hex = "0" + hex;
             }
             ret += hex.toUpperCase();
             rett[i] = ret;

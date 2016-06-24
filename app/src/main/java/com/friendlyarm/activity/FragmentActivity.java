@@ -199,7 +199,7 @@ public class FragmentActivity extends Activity implements View.OnClickListener{
                 while (true) {
                     try {
                         loadData();
-                        Thread.sleep(1000 * 60*10);//86400000
+                        Thread.sleep(1000 * 60*5);//86400000
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
@@ -414,9 +414,11 @@ public class FragmentActivity extends Activity implements View.OnClickListener{
                             //String[] str1 = util.hex(buf,1);
                             String[] str1 = util.Bytes2HexString_2(buf,3);
                             String str2 = "";
-                            int in_temp;
+                            int in_temp = 0;
                             for (int i = 0;i< 3;i++){
-                                in_temp = Integer.parseInt(str1[i].substring(1,str1[i].length()));
+                                if(!str1[i].substring(1,str1[i].length()).equals("A") || !str1[i].substring(1,str1[i].length()).equals("B")|| !str1[i].substring(1,str1[i].length()).equals("C")|| !str1[i].substring(1,str1[i].length()).equals("D")|| !str1[i].substring(1,str1[i].length()).equals("E")|| !str1[i].substring(1,str1[i].length()).equals("F")){
+                                    in_temp = Integer.parseInt(str1[i].trim());
+                                }
                                 if(i==2){
                                     compare_temp = Integer.parseInt(str2.trim());
                                     str2=str2+".";
@@ -526,7 +528,7 @@ public class FragmentActivity extends Activity implements View.OnClickListener{
                 break;
             case R.id.imageButton_voice:
                 //语音提示
-                Vioce.xunfeiVicos("请说话", FragmentActivity.this);
+                Vioce.xunfeiVicos("请指示", FragmentActivity.this);
                 flag2 = true;
                 //语音合成功能（实现食品添加的RFID读写器的唤醒）
                 startSpeechClick();
@@ -784,7 +786,7 @@ public class FragmentActivity extends Activity implements View.OnClickListener{
             intent.putExtra("key",2);
             flag2 = false;
             startActivity(intent);
-        }else if (flag2 &&(stt.equals("查询食品") || stt.equals("内部食品") || stt.equals("查看食品"))){
+        }else if (flag2 &&(stt.equals("查询食品") || stt.equals("内部食品") || stt.equals("查看食品") || stt.equals("食品查询") || stt.equals("查询视频"))){
             startActivity(new Intent(FragmentActivity.this,NoteListActivity.class));
             flag2 = false;
         }

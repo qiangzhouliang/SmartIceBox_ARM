@@ -110,7 +110,7 @@ public class UpdateService extends Service implements SMSReceiver.SMSHandler{
             public void run() {
                 while (true) {
                     try {
-                        Thread.sleep(1000 * 30);//86400000
+                        Thread.sleep(1000 * 60 * 5);//86400000
                         loadData(0);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
@@ -135,7 +135,7 @@ public class UpdateService extends Service implements SMSReceiver.SMSHandler{
                     @Override
                     public void run() {
                         try {
-                            Thread.sleep(5000);
+                            Thread.sleep(1000*2);
                             //检查是否有过期的食品
                             checkDeadline(list);
                         } catch (InterruptedException e) {
